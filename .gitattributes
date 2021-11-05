@@ -1,0 +1,4 @@
+WindowsNoEditor/miniFPS/Content/Paks/miniFPS-WindowsNoEditor.pak filter=lfs diff=lfs merge=lfs -text
+Binaries/Win64/miniFPS.exe filter=lfs diff=lfs merge=lfs -text
+Binaries/Win64/miniFPS.pdb filter=lfs diff=lfs merge=lfs -text
+WindowsNoEditor/miniFPS/Binaries/Win64/miniFPS.exe filter=lfs diff=lfs merge=lfs -text
